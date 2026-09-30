@@ -1,0 +1,8 @@
+{
+  "name": "時光留聲機 (Time Gramophone)",
+  "description": "A smart mat rehabilitation system for elders, turning physical therapy into an engaging, nostalgic game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
